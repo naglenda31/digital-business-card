@@ -2,12 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
 html, body{
   height: 100%;
 }
 
 body{
   background: #684A52;
+  font-family: 'Montserrat', sans-serif;
 }
 
 #root{
