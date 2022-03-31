@@ -1,8 +1,6 @@
 .card{
-    width: 280px;
-    /* max-height: 820px; */
+    width: 300px;
     background: #F7E1D7;
-    /* overflow: auto; */
 }
 
 .btn{
