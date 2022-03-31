@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const CardFooter = () => {
     return (
-        <div className="bg-rose-300 py-3 flex gap-2 justify-center items-center rounded-b-md">
+        <div className="card-footer bg-rose-300 py-3 flex gap-2 justify-center items-center rounded-b-md">
             <a href="https://github.com/naglenda31/" className="footer-icon">
                 <FontAwesomeIcon icon={faGithubSquare} className="footer-icon"/>    
             </a>

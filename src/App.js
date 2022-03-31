@@ -5,7 +5,7 @@ import CardFooter from './components/CardFooter';
 
 function App() {
   return (
-    <div className='card flex flex-col rounded-md gap-6'>
+    <div className="card flex flex-col rounded-md gap-6">
       <CardHeader />
       <CardBody />
       <CardFooter />
