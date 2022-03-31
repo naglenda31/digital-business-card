@@ -1,6 +1,6 @@
 Business Card Preview
 
-(./src/images/business-card-preview.png)
+![Demo](./src/images/business-card-preview.png)
 
 
 <!-- # Getting Started with Create React App
