@@ -1,0 +1,38 @@
+.card{
+    width: 280px;
+    /* max-height: 820px; */
+    background: #F7E1D7;
+    /* overflow: auto; */
+}
+
+.btn{
+    @apply text-white bg-rose-300 flex gap-2 items-center justify-center py-2 px-4 rounded mx-4;
+}
+
+.btn:hover{
+    @apply bg-rose-400;
+}
+
+.card-body-section{
+    @apply flex flex-col gap-2;
+}
+
+.section-title{
+    @apply text-lg font-semibold;
+}
+
+ul li{
+    @apply ml-6;
+}
+
+li::marker{
+    @apply text-rose-400;
+}
+
+.footer-icon{
+    @apply w-7 h-7;
+}
+
+.footer-icon:hover{
+    @apply cursor-pointer text-rose-100;
+}

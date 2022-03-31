@@ -1,9 +1,15 @@
-
 import './App.css';
+import CardHeader from './components/CardHeader';
+import CardBody from './components/CardBody';
+import CardFooter from './components/CardFooter';
 
 function App() {
   return (
-    <h1 className='text-red-500'>Hello there</h1>
+    <div className='card flex flex-col rounded-md gap-6'>
+      <CardHeader />
+      <CardBody />
+      <CardFooter />
+    </div>
   );
 }
 
