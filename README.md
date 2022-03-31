@@ -1,4 +1,6 @@
-![Business Card Preview](./src/images/business-card-preview.png)
+Business Card Preview
+
+(./src/images/business-card-preview.png)
 
 
 <!-- # Getting Started with Create React App
